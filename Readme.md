@@ -1,4 +1,4 @@
-[![PowerShell](https://raw.githubusercontent.com/beatcracker/Dply-POSH/master/media/Powershell.png)
+![PowerShell](https://raw.githubusercontent.com/beatcracker/Dply-POSH/master/media/Powershell.png)
 # Try PowerShell on Linux in your browser
 
 Try latest release of the PowerShell 6.0 on the Ubuntu 16.04 in the free cloud server from [Dply](https://dply.co).
